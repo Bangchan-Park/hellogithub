@@ -1,2 +1,2 @@
-s = 'Let me go';
-print(s, type(s));
+s = 'Let me go'
+print(s, type(s))
