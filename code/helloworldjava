@@ -1,0 +1,23 @@
+import java.util.*;
+
+class MainClass {
+public static void main(String args[]) {
+  char arr[12];
+  arr[0] = 'G';
+  arr[1] = 'A';
+  arr[2] = 'R';
+  arr[3] = 'B';
+  arr[4] = 'A';
+  arr[5] = 'G';
+  arr[6] = 'E';
+  arr[7] = ' ';
+  arr[8] = 'T';
+  arr[9] = 'I';
+  arr[10] = 'M';
+  arr[11] = 'E';
+
+  for (i=0; i<arr[].length; i++) {
+    print(arr[i]);
+  }
+}
+}
