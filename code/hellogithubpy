@@ -1,2 +1,9 @@
-s = 'Let me go'
+s = 'hello world!'
 print(s, type(s))
+
+# type list
+lst = [1, 2, 3]
+print(lst)
+
+#dictionary
+print(({i: i**2 for i in range(10)}))
